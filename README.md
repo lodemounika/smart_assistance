@@ -301,8 +301,7 @@ Final Score = 0.4(Resume Score) + 0.3(Speech Score) + 0.3(Emotion Score)
 
 # Screenshots
 
-```text
-screenshots/<img width="1875" height="962" alt="Screenshot 2026-05-14 122146" src="https://github.com/user-attachments/assets/0323bbd7-7962-45aa-ad04-30e442b2fc15" />
+<img width="1875" height="962" alt="Screenshot 2026-05-14 122146" src="https://github.com/user-attachments/assets/0323bbd7-7962-45aa-ad04-30e442b2fc15" />
 <img width="1896" height="992" alt="Screenshot 2026-05-14 122122" src="https://github.com/user-attachments/assets/9d7ac6f6-5540-44cf-a4bf-686741ddc41a" />
 
 
